@@ -158,7 +158,7 @@ $('.start').on('click',function(){
   $('h1').text("Connect Four Dots");
 })
 
-
+// to restart the game.
 function restart(){
   for(var row=0;row<7;row++)
   {
@@ -172,3 +172,8 @@ function restart(){
   }
   counter_draw=0;
 }
+
+// Enjoy this game .
+// It is one of my great game.
+//Well, I hope you will like this game and enjoy the game.
+// Go, Play the game.
